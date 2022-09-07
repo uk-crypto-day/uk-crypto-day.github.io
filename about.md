@@ -7,3 +7,4 @@ permalink: /about/
 Bla
 
 # Steering Committee
+
