@@ -49,7 +49,9 @@ Privacy concerns in federated learning (FL) are commonly addressed with secure a
 
 Matrix is a decentralised, federated group messaging protocol that intends to achieve strong (but subtle) notions of secure messaging by combining symmetric ratcheting encryption schemes with two-party secure messaging protocols. Recently announced vulnerabilities in the Matrix protocol and its client implementation Element have demonstrated the difficulty in designing group messaging protocols, even when composing together secure building blocks. In addition, Matrix's design reveals interesting functionalities that have yet to be captured in a formal security model. In this talk, we explore the Matrix messaging protocol, discussing its underlying subprotocols and highlight the exact security notions that Matrix aims to achieve.
 
-### 16:15-17:00 [Mary Maller](https://www.marymaller.com/) (Ethereum Foundation): TBC
+### 16:15-17:00 [Mary Maller](https://www.marymaller.com/) (Ethereum Foundation): Caulk: Lookup Arguments in Sublinear Time
+
+We present position-hiding linkability for vector commitment schemes: one can prove in zero knowledge that one or m values that comprise commitment cm all belong to the vector of size N committed to in C. Our construction Caulk can be used for membership proofs and lookup arguments and outperforms all existing alternatives in prover time by orders of magnitude. For both single- and multi-membership proofs the Caulk protocol beats SNARKed Merkle proofs by the factor of 100 even if the latter is instantiated with Poseidon hash. Asymptotically our prover needs O(m2 + m log N) time to prove a batch of m openings, whereas proof size is O(1) and verifier time is O(log(log N)). As a lookup argument, Caulk is the first scheme with prover time sublinear in the table size, assuming O(N log N) preprocessing time and O(N) storage. It can be used as a subprimitive in verifiable computation schemes in order to drastically decrease the lookup overhead. Our scheme comes with a reference implementation and benchmarks.
 
 ## Venue
 
