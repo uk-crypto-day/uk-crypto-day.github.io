@@ -11,7 +11,7 @@ redirect_from: /2022/11/24/
 -  9:45 - 10:00	Opening remarks	
 - 10:00 - 10:45	Alex Davidson
 - 10:45 - 11:00	Short break	
-- 11:00 - 11:45	Liz Crites
+- 11:00 - 11:45	Elizabeth Crites
 - 11:45 - 12:30	Ioana Boureanu
 - 12:30 - 14:00	Lunch	
 - 14:00 - 14:45	Christian Weinert
@@ -33,7 +33,7 @@ Please register using [this link](https://forms.gle/zqhkdfspVfYQ9hJV9).
 We present STAR, a new protocol framework that allows clients to provide software measurements to an untrusted aggregation server with concrete privacy guarantees: ensuring that client data is revealed only if it is shared by a sufficiently large crowd of other clients. The cryptographic primitives used in STAR are deliberately chosen to emphasise simplicity in the protocol design, and to ensure that it is extremely efficient to run — even on millions of client measurements. Together, these properties ensure that STAR can be used by any system or software project, regardless of scale or technical expertise of implementers. STAR is actively used by the [Brave Internet browser](https://brave.com/) at large-scale, is a candidate for [standardisation with the IETF](https://datatracker.ietf.org/doc/draft-dss-star/), and an implementation is provided [open-source](https://github.com/brave/sta-rs) (with permissive licensing) for anybody to use.
 
 
-### 11:00-11:45 [Liz Crites](https://elizabeth-crites.github.io/) (University of Edinburgh): Recent Developments on Multi-Party Schnorr Signatures 
+### 11:00-11:45 [Elizabeth Crites](https://elizabeth-crites.github.io/) (University of Edinburgh): Recent Developments on Multi-Party Schnorr Signatures 
 
 Schnorr signatures are one of the most widely used and studied primitives in public key cryptography. Recently, there has been a flurry of research activity around multi-party Schnorr signatures, driven in part by their use in securing cryptocurrency wallets. Of particular interest are multisignatures and threshold signatures, which allow a group of signers, or some threshold of them, to jointly compute a Schnorr signature. In this talk, I will discuss recent developments on multi-party Schnorr signatures as well as new directions, and describe my own research therein.
 
