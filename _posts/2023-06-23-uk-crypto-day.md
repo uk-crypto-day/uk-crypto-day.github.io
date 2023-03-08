@@ -28,8 +28,8 @@ redirect_from: /2023/06/23/
 
 ## Venue
 
-King's College London
-Room: MB4.2
-Macadam Building, Strand Campus
-Strand, London WC2R 2LS
+King's College London  
+Room: MB4.2  
+Macadam Building, Strand Campus  
+Strand, London WC2R 2LS  
 London
