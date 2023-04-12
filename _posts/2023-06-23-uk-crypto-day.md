@@ -12,9 +12,9 @@ redirect_from: /2023/06/23/
 - 11:00 - 11:45	Bernardo Magri
 - 11:45 - 12:30	Sunoo Park
 - 12:30 - 14:00	Lunch	
-- 14:00 - 14:45	François Dupressoir 
+- 14:00 - 14:45	Michele Ciampi
 - 14:45 - 15:00	Short break	
-- 15:00 - 15:45	Michele Ciampi
+- 15:00 - 15:45	François Dupressoir 
 - 15:45 - 16:15	Break	
 - 16:15 - 17:00	Yixin Shen
 - 17:00 - 17:30	Lightning talks	
