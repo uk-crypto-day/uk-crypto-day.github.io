@@ -31,6 +31,14 @@ Imagine a setting where whenever a party in a protocol sends a message, its IP a
 
 **Bio.** Bernardo Magri is a Senior Lecturer at the CS department at University of Machester. His research interests are on the theoretical and practical aspects of cryptography and distributed ledgers.
 
+### [Sunoo Park](https://sunoopark.com/): Email Attribution and Election Audits
+
+My talk will focus on two recent works. The first concerns preventing the exploitation of stolen email data. Email is used widely for personal, industry, and government communication; as such, it is a valuable target for attack. Such attacks are compounded by email’s strong attributability: today, any attacker who gains access to your email can easily prove to others that the stolen messages are authentic. We define and construct non-attributable email using a new cryptographic signature primitive.
+
+The second paper concerns a new model of post-election audits, loosely inspired by multi-prover interactive proofs. Post-election audits perform statistical hypothesis testing to confirm election outcomes. However, existing approaches are costly and laborious for close elections---often the most important cases to audit. We instead propose automated consistency checks, augmented by manual checks of only a small number of ballots. Our protocols scan each ballot twice, shuffling the ballots between scans: a "two-scan" approach inspired by two-prover proof systems.
+
+**Bio:** Sunoo Park is a Postdoctoral Fellow at Columbia University and Visiting Fellow at Columbia Law School. Her research interests range across cryptography, security, and technology law. She received her Ph.D. in computer science at MIT, her J.D. at Harvard Law School, and her B.A. in computer science at the University of Cambridge.
+
 ### [Michele Ciampi](https://www.research.ed.ac.uk/en/persons/michele-ciampi): On the round-complexity of secure multi-party computation
 
 In multi-party computation (MPC), multiple entities, each having some inputs want to jointly compute a function of these inputs with the guarantee that nothing aside from the output of the function will be leaked. In this talk, we are going to investigate how many messages the parties of an MPC need to exchange to securely realise any functionality with simulation-based security in the case where there is no setup and the majority of the parties can be corrupted. We will then consider a relaxation of the standard simulation-based paradigm, and discuss whether this lead to more efficient MPC protocols which still realize non-trivial functionalities which meaningful security.
