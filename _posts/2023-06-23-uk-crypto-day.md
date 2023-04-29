@@ -25,6 +25,12 @@ redirect_from: /2023/06/23/
 
 ## Speakers/Talks
 
+### [Jonathan Bootle](https://jbootle.github.io/): The Sumcheck Protocol, Applications, and Formal Verification
+
+The sumcheck protocol plays a central role in many constructions of efficient zero-knowledge arguments. In this talk, I will describe the sumcheck protocol, explain why it is so useful, and discuss recent work on a machine-checkable security proof.
+
+**Bio.** Jonathan Bootle is a researcher in the Foundational Cryptography Group at IBM Research - Zurich. His research focuses on constructing efficient zero-knowledge proofs, especially those based on lattice assumptions or error-correcting codes.
+
 ### [Bernardo Magri](https://bernardomagri.eu/): YOSO – You Only Speak Once
 
 Imagine a setting where whenever a party in a protocol sends a message, its IP address becomes known, and it gets immediately killed by the adversary in a DoS attack. This implies that in any given protocol a party can only send a single message at a random point in time. Can we do secure multiparty computation in this setting? In this talk we introduce the YOSO MPC model that is based around the notion of roles, which are randomly assigned stateless parties that can send a single message for the entire duration of the protocol. We will show how one we can leverage the infrastructure of public blockchains to securely YOSO-compute any function with private inputs.
