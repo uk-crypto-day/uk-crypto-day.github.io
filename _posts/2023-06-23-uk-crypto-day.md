@@ -22,6 +22,7 @@ redirect_from: /2023/06/23/
 
 ## Registration
 
+ Registration is free but required. To register please click [here](https://forms.gle/tqZsrPh9y4GmbBAi8). We will close registration one week before the event or when we are full.
 
 ## Speakers/Talks
 
