@@ -52,7 +52,7 @@ In multi-party computation (MPC), multiple entities, each having some inputs wan
 
 **Bio.** Michele Ciampi is a Chancellor's Fellow at the School of Informatics at the University of Edinburgh. His work focuses on theoretical aspects of cryptography, including multi-party computation protocols, zero-knowledge proofs, and blockchain.
 
-### [François Dupressoir](): Revisiting machine-checked AKE security — Reports from a possibly active trench
+### [François Dupressoir](https://fdupress.net/): Revisiting machine-checked AKE security — Reports from a possibly active trench
 
 Machine-checked cryptographic proofs, as supported by tools such as EasyCrypt, CryptHOL or SSProve, aim at increasing trust in cryptographic algorithms by producing machine-checkable evidence that their security follows from relatively (sometimes) standard hardness assumptions. With only a few exceptions, their application has unfortunately been limited to small, typically non-interactive, constructions. A significant exception is a Eurocrypt 2015 paper applying EasyCrypt to a family of Authenticated Key Exchange protocols, whose massive proof has unfortunately been lost to time (and some obnoxious IT practices). This talk will report on an ongoing (or perhaps, hopefully, not) attempt at understanding better the interplay between EasyCrypt, interactive protocols, and a few competing pen-and-paper definition and proof methodologies. By doing so, I hope to provoke discussions around the goal and value of security proof and their machine-checked variants, and about what "traditional" cryptographers might expect or want from proof tools.
 
