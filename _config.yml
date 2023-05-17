@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Crypto Days, in London
 baseurl: "" # the subpath of your site, e.g. /blog
 
-domain: london-ish-crypto-day.github.io
-url: https://london-ish-crypto-day.github.io
+domain: uk-crypto-day.github.io
+url: https://uk-crypto-day.github.io
 permalink:          pretty
 
 
