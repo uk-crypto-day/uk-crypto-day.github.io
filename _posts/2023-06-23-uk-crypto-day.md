@@ -7,7 +7,7 @@ redirect_from: /2023/06/23/
 
 -  9:00 -  9:45	Arrival
 -  9:45 - 10:00	Opening remarks	
-- 10:00 - 10:45	Jonathan Bootle
+- 10:00 - 10:45	Yixin Shen
 - 10:45 - 11:00	Short break	
 - 11:00 - 11:45	Bernardo Magri
 - 11:45 - 12:30	Sunoo Park
@@ -16,7 +16,7 @@ redirect_from: /2023/06/23/
 - 14:45 - 15:00	Short break	
 - 15:00 - 15:45	François Dupressoir 
 - 15:45 - 16:15	Break	
-- 16:15 - 17:00	Yixin Shen
+- 16:15 - 17:00	Jonathan Bootle
 - 17:00 - 17:30	Lightning talks	
 - 17:30 - 19:00	Reception	
 
