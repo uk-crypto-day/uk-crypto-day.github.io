@@ -16,7 +16,7 @@
 title: UK Crypto Day
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Crypto Days, in London
+  Crypto Days, in the UK
 baseurl: "" # the subpath of your site, e.g. /blog
 
 domain: uk-crypto-day.github.io
