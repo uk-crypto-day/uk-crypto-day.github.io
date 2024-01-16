@@ -9,7 +9,9 @@ We will announce the full schedule soon.
 
 ## Registration
 
-Registration will open soon.
+Registration is free but required. To register please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG_lsqBw7Z0VJqfKDlAYbPipURVcxM0E0OTRKTTZWMjBGWkU2VjJXNjQ5WS4u). We will close registration one week before the event (February 25th) or when we are full.
+
+
 
 ## Speakers/Talks
 
