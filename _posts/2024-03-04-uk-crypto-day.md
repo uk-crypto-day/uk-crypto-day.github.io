@@ -22,7 +22,13 @@ In this talk I will explain recent research that aims to capture the idea of "ex
 
 **Bio.** Elisabeth Oswald's research focuses on implementation aspects of cryptography, in particular, statistical methods for evaluations. She is currently a Professor for Applied Cryptography at the University of Birmingham, and still holds a part-time appointment at the University of Klagenfurt. 
 
-### [Luca de Feo](https://defeo.lu/): TBD
+### [Luca de Feo](https://defeo.lu/): SQIsign: past, present and future
+
+SQIsign is a NIST-candidate post-quantum signature scheme with exceptional size and performance... but exceptions are not always a positive. In this talk I will explain the theory behind SQIsign, in as simple terms as possible. Then I will show the good and the bad sides of SQIsign. Finally, I will survey recent proposals to improve some aspects of it.
+
+**Bio.** Luca De Feo is a researcher at IBM Research Europe working on quantum-safe cryptography. He graduated from École Polytechnique in 2010 with a thesis on isogeny computations; He has been computing them ever since.
+
+
 
 ### [Ngoc Khanh Nguyen](https://kclpure.kcl.ac.uk/portal/en/persons/ngoc_khanh.nguyen): Polynomial Commitments from Lattices: Post-Quantum Security, Fast Verification and Transparent Setup
 
