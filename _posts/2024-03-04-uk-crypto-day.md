@@ -5,9 +5,20 @@ redirect_from: /2024/03/04/
 
 ## Schedule
 
-We will announce the full schedule soon.
-
-The reception will start at 9:00, with the first talk at 9:45. The last talk of the day will end at 17:00, when there will be a reception, followed by a group dinner.
+-  9:00 -  9:45:	Arrival
+-  9:45 - 10:00:	Opening remarks	
+- 10:00 - 10:45:	**Ngoc Khanh Nguyen**, *Polynomial Commitments from Lattices*
+- 10:45 - 11:15:	Short break	
+- 11:15 - 12:00:	**Elisabeth Oswald**, *Explainable Leakage Assessments*
+- 12:00 - 13:30:	Lunch	
+- 13:30 - 14:15:	**Jan Bobolz**, *On the Impossibility of Surviving (Iterated) Deletion of Weakly Dominated Strategies in Rational MPC*
+- 14:15 - 14:30:	Short break	
+- 14:30 - 15:15:	**Luca de Feo**, *SQIsign: past, present and future*
+- 15:15 - 15:45:	Break	
+- 15:45 - 16:30:	**Yiannis Tselekounis**, *Optimal Single-Server Private Information Retrieval*
+- 16:30 - 17:00:	Lightning talks	
+- 17:00 - 19:00:	Reception	
+- 19:00 - onward:   Dinner
 
 ## Registration
 
@@ -21,6 +32,15 @@ Registration is free but required. To register please click [here](https://forms
 In this talk I will explain recent research that aims to capture the idea of "explainability" in a statistical manner and connect this with so-called non-specific leakage assessment methods. Such methods are of interest when assessing composite cryptographic  products; here the precise leakage characteristics of the underlying hardware are not knowing to the assessor, but they have access to the source of the cryptographic software. 
 
 **Bio.** Elisabeth Oswald's research focuses on implementation aspects of cryptography, in particular, statistical methods for evaluations. She is currently a Professor for Applied Cryptography at the University of Birmingham, and still holds a part-time appointment at the University of Klagenfurt. 
+
+### [Jan Bobolz](https://jan-bobolz.de/): On the Impossibility of Surviving (Iterated) Deletion of Weakly Dominated Strategies in Rational MPC 
+
+Rational MPC provides a framework for analyzing MPC protocols through the lens of game theory. It is an exciting way of looking at MPC because it allows us to make statements about a setting where no participant is inherently honest (which usually precludes any cryptography), but all parties are rational. 
+It is also challenging to model, as one has to marry the largely information-theoretical nature of game theory with cryptographic guarantees against computationally bounded adversaries. 
+
+We discuss these challenges and point out (eprint 2022/1762) flaws in the modeling of iterated deletion of weakly dominated strategies, showing that, in contrast to claims in the literature, (essentially) no protocol is rationally secure under that notion. We invite future research into game-theoretic modeling of MPC.
+
+**Bio.** Jan Bobolz is interested in all things provable security, with a focus on security modeling, privacy-preserving constructions, and zero-knowledge proofs. He is a research associate at the University of Edinburgh’s ZK Lab. He was previously a PhD student at Paderborn University.
 
 ### [Luca de Feo](https://defeo.lu/): SQIsign: past, present and future
 
