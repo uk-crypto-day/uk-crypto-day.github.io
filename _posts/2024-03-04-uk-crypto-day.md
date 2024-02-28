@@ -8,7 +8,7 @@ redirect_from: /2024/03/04/
 -  9:00 -  9:45:	Arrival
 -  9:45 - 10:00:	Opening remarks	
 - 10:00 - 10:45:	**Ngoc Khanh Nguyen**, *Polynomial Commitments from Lattices*
-- 10:45 - 11:15:	Short break	
+- 10:45 - 11:15:	Break	
 - 11:15 - 12:00:	**Elisabeth Oswald**, *Explainable Leakage Assessments*
 - 12:00 - 13:30:	Lunch	
 - 13:30 - 14:15:	**Jan Bobolz**, *On the Impossibility of Surviving (Iterated) Deletion of Weakly Dominated Strategies in Rational MPC*
@@ -22,7 +22,7 @@ redirect_from: /2024/03/04/
 
 ## Registration
 
-Registration is free but required. To register please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG_lsqBw7Z0VJqfKDlAYbPipURVcxM0E0OTRKTTZWMjBGWkU2VjJXNjQ5WS4u). We will close registration one week before the event (February 25th) or when we are full.
+Registration is free but required. To register please click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG_lsqBw7Z0VJqfKDlAYbPipURVcxM0E0OTRKTTZWMjBGWkU2VjJXNjQ5WS4u).
 
 
 ## Speakers/Talks
@@ -70,9 +70,17 @@ We construct a single-server pre-processing Private Information Retrieval (PIR) 
 
 **Bio.** Yiannis Tselekounis is a Lecturer at the Department of Information Security at Royal Holloway, University of London. His research focuses on applied and theoretical aspects of cryptography, including the security of cryptographic protocols, leakage/tamper-resilient cryptography, and blockchains.
 
+## Lightning Talks
+
+There will be a lightning talk session at the end of the day to present new results and make announcements (open positions, upcoming events, etc.). If you would like to give a lightning talk (max 3 minutes), email [andrea.basso@bristol.ac.uk](mailto:andrea.basso@bristol.ac.uk) (possibly with slides).
+
+
 ## Venue
 
 Viridor Theatre   
 Great Western Dockyard  
 Gas Ferry Road  
-Bristol BS1 6TY
+Bristol BS1 6TY\
+[Google Maps](https://www.google.com/maps/place/Brunel's+SS+Great+Britain/@51.4491729,-2.6074661,18.72z/data=!4m14!1m7!3m6!1s0x48718dd2012bde19:0x40bd3ee1518221f1!2sHarbourside+Kitchen!8m2!3d51.4490424!4d-2.6073653!16s%2Fg%2F11b6z38jqb!3m5!1s0x48718dcdf73d3043:0x15fc8e91caed2d23!8m2!3d51.4491712!4d-2.6084058!16zL20vMG1nbGI?entry=ttu){:target="_blank"} &#124; [Apple Maps](https://maps.apple.com/?address=Bristol,%20England&auid=779860821186750947&ll=51.449077,-2.607136&lsp=9902&q=Brunel's%20SS%20Great%20Britain%20Terminal){:target="_blank"} &#124; [OpenStreetMap](https://www.openstreetmap.org/way/48859354){:target="_blank"}
+
+**How to get there.** If you arrive between 9 and 10, there will be a member of staff waiting by the black gates (next to the Harbourside Café) who will guide you in. If you arrive after 10am, please reach out to a member of staff of the Harbourside Café. In case of any issue, email either [andrea.basso@bristol.ac.uk](mailto:andrea.basso@bristol.ac.uk) or [f.dupressoir@bristol.ac.uk](mailto:f.dupressoir@bristol.ac.uk).
