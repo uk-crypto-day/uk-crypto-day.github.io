@@ -6,12 +6,4 @@ permalink: /about/
 
 Much crypto, such day.
 
-# Steering Committee
-
-- [Martin R. Albrecht](https://malb.io/)
-- [Sarah Meiklejohn](https://smeiklej.com/)
-- [Nick Spooner](https://spooner.cc/)
-
-# The Name
-
-We changed the name from "London-ish" to "UK" to reflect that we're trying to cater to more than the London area.
+If you want to run an event that is advertised on this website, get in touch with Martin R. Albrecht.
