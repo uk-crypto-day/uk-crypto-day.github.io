@@ -1,5 +1,5 @@
 ---
-title: "UK Crypto Day: 4th March 2024"
+title: "UK Crypto Day: 4 March 2024"
 redirect_from: /2024/03/04/
 ---
 
