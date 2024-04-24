@@ -33,9 +33,11 @@ Registration is free but required. To register please click [here](https://www.e
 
 **Bio.** TBA
 
-### [Chloe Martindale](https://www.martindale.info/): TBA
+### [Chloe Martindale](https://www.martindale.info/): Why to love isogenies in 2024
 
-**Bio.** TBA
+Isogeny-based cryptography has gone through something of a renaissance in the last two years. At the last UK crypto day, we heard all about SQISign, an isogeny-based signature scheme submitted to the NIST call for post-quantum signatures. This time, we will focus on a different aspect of isogeny-based cryptography: the fast-developing landscape of attacks and new primitives leveraging techniques related to "Kani's lemma", first introduced to the field in the attacks on SIKE in 2022. We will give a high-level overview of what these techniques are, the state-of-the-art on where the limits are believed to be in terms of attacks, and discuss the many new constructive applications that have been borne out of these techniques.
+
+**Bio.** Dr Chloe Martindale is a Senior Lecturer at the University of Bristol doing research on post-quantum cryptography. Her main research interests are in constructions and cryptanalysis of isogeny-based schemes, and, more generally, cryptography with foundations in number theory. Dr Martindale also works on the dissemination of scientific knowledge through her work in reviewing future standards as part of the crypto panel of experts for the CFRG and through public engagement at schools and public science events. Before coming to Bristol in 2019, Dr Martindale was a postdoc at Eindhoven University of Technology in the group of Prof. dr. Tanja Lange, and she did her PhD at Leiden University and Bordeaux University under the supervision of Dr Marco Streng.
 
 ### [Nicholas Spooner](https://spooner.cc/): TBA
 
