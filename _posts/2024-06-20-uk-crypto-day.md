@@ -20,7 +20,7 @@ redirect_from: /2024/06/20/
 
 ## Registration
 
-Registration is free but required. To register please click [here](https://www.eventbrite.com/e/880829313187?aff=oddtdtcreator).
+Registration is free but required. To register please click [here](https://www.eventbrite.com/e/880829313187?aff=oddtdtcreator). The registration closes one week before the event, or when we reach full capacity.
 We plan to have a poster session. If you want to present a poster, send an email to michele.ciampi at ed.ac.uk with the poster's title and abstract.
 
 ## Speakers/Talks
@@ -54,6 +54,9 @@ Informatics Forum (University of Edinburgh) Room G.07, 10 Crichton St, Newington
 
 [Google Maps](https://maps.app.goo.gl/MYxcuMfx51DxM4hBA){:target="_blank"} &#124; [Apple Maps](https://maps.apple.com/?address=10%20Crichton%20St,%20Edinburgh,%20EH8%209AB,%20Scotland&auid=17327607979603908319&ll=55.944703,-3.187417&lsp=9902&q=Informatics%20Forum){:target="_blank"} &#124; [OpenStreetMap](https://www.openstreetmap.org/way/23046723){:target="_blank"}
 
+## Contacts
+
+For any inquiry related to the event, please send an email to the organizer Michele Ciampi at michele.ciampi at ed.ac.uk.
 
 The event is sponsored by the Laboratory for Foundation of Computer Science (LFCS) of the University of Edinburgh, Input-Output Global (IOG), and The Scottish Informatics & Computer Science Alliance (SICSA).
 
