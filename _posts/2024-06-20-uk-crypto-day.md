@@ -21,7 +21,7 @@ redirect_from: /2024/06/20/
 ## Registration
 
 Registration is free but required. To register please click [here](https://www.eventbrite.com/e/880829313187?aff=oddtdtcreator).
-
+We plan to have a poster session. If you want to present a poster, send an email to michele.ciampi at ed.ac.uk with the poster's title and abstract.
 
 ## Speakers/Talks
 
