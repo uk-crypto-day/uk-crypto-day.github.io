@@ -7,15 +7,15 @@ redirect_from: /2024/06/20/
 
 -  9:00 -  9:45:	Arrival
 -  9:45 - 10:00:	Opening remarks	
-- 10:00 - 10:45:	**Thomas Kerber**, *TBA*
+- 10:00 - 10:45:	**Thomas Kerber** (IOG), *TBA*
 - 10:45 - 11:15:	Break	
-- 11:15 - 12:00:	**Mary Maller**, *TBA*
+- 11:15 - 12:00:	**Mary Maller** (Ethereum Foundation and PQShield), *TBA*
 - 12:00 - 13:30:	Lunch	and poster session
-- 13:30 - 14:15:	**Chloe Martindale**, *TBA*
+- 13:30 - 14:15:	**Chloe Martindale** (University of Bristol), *TBA*
 - 14:15 - 14:30:	Short break	
-- 14:30 - 15:15:	**Nicholas Spooner**, *STBA*
+- 14:30 - 15:15:	**Nicholas Spooner** (University of Warwick), *STBA*
 - 15:15 - 15:45:	Break	
-- 15:45 - 16:30:	**Thomas Zacharias**, *TBA*
+- 15:45 - 16:30:	**Thomas Zacharias** (University of Glasgow), *TBA*
 - 16:30 - 18:00:	Reception and closing remarks	
 
 ## Registration
