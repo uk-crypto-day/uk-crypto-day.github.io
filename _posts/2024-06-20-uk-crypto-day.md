@@ -1,5 +1,5 @@
 ---
-title: "UK Crypto Day: 20 June 2024 \n The University of Edinburgh"
+title: "UK Crypto Day: 20 June 2024 at The University of Edinburgh"
 redirect_from: /2024/06/20/
 ---
 
