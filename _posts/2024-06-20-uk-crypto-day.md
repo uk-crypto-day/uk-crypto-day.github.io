@@ -54,5 +54,8 @@ Informatics Forum (University of Edinburgh) Room G.07, 10 Crichton St, Newington
 
 [Google Maps](https://maps.app.goo.gl/MYxcuMfx51DxM4hBA){:target="_blank"} &#124; [Apple Maps](https://maps.apple.com/?address=10%20Crichton%20St,%20Edinburgh,%20EH8%209AB,%20Scotland&auid=17327607979603908319&ll=55.944703,-3.187417&lsp=9902&q=Informatics%20Forum){:target="_blank"} &#124; [OpenStreetMap](https://www.openstreetmap.org/way/23046723){:target="_blank"}
 
+<img src="/static/sicsa.jpg" width="35%">
+<img src="/static/lfcs.jpg" width="35%">
+<img src="/static/iog.png" width="35%">
 
-![logo](/static/sicsa.jpg) ![logo](/static/lfcs.jpg) ![logo](/static/iog.png)
+
