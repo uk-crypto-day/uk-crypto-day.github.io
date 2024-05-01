@@ -13,7 +13,7 @@ redirect_from: /2024/06/20/
 - 12:00 - 13:30:	Lunch	and poster session
 - 13:30 - 14:15:	**Chloe Martindale** (University of Bristol), *Why to love isogenies in 2024*
 - 14:15 - 14:30:	Short break	
-- 14:30 - 15:15:	**Nicholas Spooner** (University of Warwick), *TBA*
+- 14:30 - 15:15:	**Nicholas Spooner** (University of Warwick), *An efficient quantum parallel repetition theorem and applications*
 - 15:15 - 15:45:	Break	
 - 15:45 - 16:30:	**Thomas Zacharias** (University of Glasgow), *Are continuous stop-and-go mixnets provably secure?*
 - 16:30 - 18:00:	Reception and closing remarks	
@@ -44,9 +44,11 @@ Isogeny-based cryptography has gone through something of a renaissance in the la
 
 **Bio.** Dr Chloe Martindale is a Senior Lecturer at the University of Bristol doing research on post-quantum cryptography. Her main research interests are in constructions and cryptanalysis of isogeny-based schemes, and, more generally, cryptography with foundations in number theory. Dr Martindale also works on the dissemination of scientific knowledge through her work in reviewing future standards as part of the crypto panel of experts for the CFRG and through public engagement at schools and public science events. Before coming to Bristol in 2019, Dr Martindale was a postdoc at Eindhoven University of Technology in the group of Prof. dr. Tanja Lange, and she did her PhD at Leiden University and Bordeaux University under the supervision of Dr Marco Streng.
 
-### [Nicholas Spooner](https://spooner.cc/): TBA
+### [Nicholas Spooner](https://spooner.cc/): An efficient quantum parallel repetition theorem and applications
 
-**Bio.** TBA
+A fundamental question in cryptography is whether the security of a "weak" cryptographic primitive can be generically amplified. We investigate this question in the quantum setting. We prove a general security amplification result for any quantum cryptographic primitive with a three-message security game, including (canonical) quantum commitments and quantum money.
+
+**Bio.** Nick Spooner is an Assistant Professor of Computer Science at the University of Warwick. For the academic year 2023-24 he is a visiting assistant professor at NYU. His work focuses on probabilistic proof systems, zero knowledge, and quantum and post-quantum cryptography. He received his PhD from UC Berkeley in 2020.
 
 ### [Thomas Zacharias](https://www.gla.ac.uk/schools/computing/staff/thomaszacharias/): Are continuous stop-and-go mixnets provably secure?
 
