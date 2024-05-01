@@ -7,15 +7,15 @@ redirect_from: /2024/06/20/
 
 -  9:00 -  9:45:	Arrival
 -  9:45 - 10:00:	Opening remarks	
-- 10:00 - 10:45:	**Thomas Kerber** (IOG), *TBA*
+- 10:00 - 10:45:	**Thomas Kerber** (IOG), *[Fr]agility in Zero-Knowledge Cryptography*
 - 10:45 - 11:15:	Break	
 - 11:15 - 12:00:	**Mary Maller** (Ethereum Foundation and PQShield), *TBA*
 - 12:00 - 13:30:	Lunch	and poster session
-- 13:30 - 14:15:	**Chloe Martindale** (University of Bristol), *TBA*
+- 13:30 - 14:15:	**Chloe Martindale** (University of Bristol), *Why to love isogenies in 2024*
 - 14:15 - 14:30:	Short break	
-- 14:30 - 15:15:	**Nicholas Spooner** (University of Warwick), *STBA*
+- 14:30 - 15:15:	**Nicholas Spooner** (University of Warwick), *TBA*
 - 15:15 - 15:45:	Break	
-- 15:45 - 16:30:	**Thomas Zacharias** (University of Glasgow), *TBA*
+- 15:45 - 16:30:	**Thomas Zacharias** (University of Glasgow), *Are continuous stop-and-go mixnets provably secure?*
 - 16:30 - 18:00:	Reception and closing remarks	
 
 ## Registration
@@ -25,9 +25,14 @@ We plan to have a poster session. If you want to present a poster, send an email
 
 ## Speakers/Talks
 
-### [Thomas Kerber](https://iohk.io/en/research/library/authors/thomas-kerber/): TBA
+### [Thomas Kerber](https://iohk.io/en/research/library/authors/thomas-kerber/): [Fr]agility in Zero-Knowledge Cryptography
 
-**Bio.** TBA
+Cryptographic agility is all about being able to adopt new cryptographic algorithms and abandon old ones as they become insecure or as the field advances. Midnight has a challenging variant of this problem, in which two goals are in conflict:
+- Adopting new algorithms should support the system's existing state
+- Keeping as much of the state private as possible, including information needed to reinterpret it for new algorithms
+This talk will give an introduction to Midnight, how it relies on cryptography, our current plans for cryptographic agility, and the limitations we can observe.
+
+**Bio.** Thomas is a technical architect at Midnight, a data-protection focused blockchain focused on zero-knowledge proofs. He holds a PhD in cryptography from Edinburgh University, focusing on the blockchain-related applications of zero-knowledge, specifically for privacy.
 
 ### [Mary Maller](https://www.marymaller.com/): TBA
 
@@ -43,9 +48,13 @@ Isogeny-based cryptography has gone through something of a renaissance in the la
 
 **Bio.** TBA
 
-### [Thomas Zacharias](https://www.gla.ac.uk/schools/computing/staff/thomaszacharias/): TBA
+### [Thomas Zacharias](https://www.gla.ac.uk/schools/computing/staff/thomaszacharias/): Are continuous stop-and-go mixnets provably secure?
 
-**Bio.** TBA
+Anonymous communication protocols encompass privacy-enhancing technologies in order to protect the privacy of the communication metadata. Mix networks (mixnets) are cryptographic routing protocols that offer anonymous communication by rerouting packets over several hops and adding delays on every hop of messages that allow the messages to mix with each other. All mixnets that attempt to provide provable anonymity guarantees do so by relying on some kind of round-based communication model. However, it is difficult to implement such round structure in practice when there are thousands of nodes and millions of clients in the system.
+Continuous stop-and-go mixnets (e.g., Loopix and Nym) provide a nice alternative that avoids such round-based communication by adding a random delay (typically, chosen from an exponential distribution) for each message on every hop independent of all other hops and all other messages. Although attractive as a system-design choice, it was not yet known if continuous mixnets can provide provable anonymity guarantees. Existing end-to-end analyses for such designs provide only experimental evaluations for anonymity and were lacking a comprehensive formal treatment.
+In this talk, we present the first formal analysis of continuous mixnets that closes this gap. We provide two indistinguishability based definitions (of sender anonymity), namely pairwise unlinkability and user unlinkability, tuned specifically for continuous stop-and-go mixnets. We derive the adversarial advantage as a function of the protocol parameters for the two definitions. We show that there is a fundamental lower bound on the adversarial advantage for pairwise unlinkability; however, strong user unlinkability (negligible adversarial advantage) can be achieved if the users message rate is proportional to message processing rate on the nodes.
+
+**Bio.** Thomas Zacharias is a Lecturer in Cybersecurity at the University of Glasgow. Previously, he worked as a Senior Researcher at the University of Edinburgh. He holds a PhD in Cryptography from the Department of Informatics and Telecommunications from the University of Athens. His research focuses on problems of Computer Security and Privacy examined from a cryptographic perspective, which comprises formal modelling, design and analysis of provably secure constructions that build upon state-of-the-art cryptographic tools. His main research areas are: 1) electronic voting (e-voting), 2) privacy-preserving communications, 3) blockchain protocols, 4) multi-party computation, and 5) foundations of Cryptography. Besides its pure academic contribution, his work aims at designing and analysing usable cryptographic systems that can find real-world applications. Currently, he explores the problem of decentralisation as it manifests in several interesting classes of distributed protocols (e.g. e-voting systems, blockchain protocols and contact tracing schemes).
 
 
 ## Venue
