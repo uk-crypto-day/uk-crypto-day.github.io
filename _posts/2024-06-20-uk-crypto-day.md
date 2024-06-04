@@ -9,7 +9,7 @@ redirect_from: /2024/06/20/
 -  9:45 - 10:00:	Opening remarks	
 - 10:00 - 10:45:	**Thomas Kerber** (IOG), *[Fr]agility in Zero-Knowledge Cryptography*
 - 10:45 - 11:15:	Break	
-- 11:15 - 12:00:	**Mary Maller** (Ethereum Foundation and PQShield), *TBA*
+- 11:15 - 12:00:	**Mary Maller** (Ethereum Foundation and PQShield), *Threshold signatures from sigma protocols*
 - 12:00 - 13:30:	Lunch	and poster session
 - 13:30 - 14:15:	**Chloe Martindale** (University of Bristol), *Why to love isogenies in 2024*
 - 14:15 - 14:30:	Short break	
@@ -34,9 +34,10 @@ This talk will give an introduction to Midnight, how it relies on cryptography, 
 
 **Bio.** Thomas is a technical architect at Midnight, a data-protection focused blockchain focused on zero-knowledge proofs. He holds a PhD in cryptography from Edinburgh University, focusing on the blockchain-related applications of zero-knowledge, specifically for privacy.
 
-### [Mary Maller](https://www.marymaller.com/): TBA
+### [Mary Maller](https://www.marymaller.com/): Threshold signatures from sigma protocols.
 
-**Bio.** TBA
+A threshold signature scheme allows t-out-of-N parties to sign a message, but not t - 1.  In this talk we discuss two recent threshold schemes: Sparkle+ and TRaccoon.  The first scheme is adaptively secure under the discrete logarithm assumption.  The second scheme is secure under the Self-Target MSIS and hint-LWE lattice assumptions.  We discuss the different techniques required between the two settings.
+
 
 ### [Chloe Martindale](https://www.martindale.info/): Why to love isogenies in 2024
 
