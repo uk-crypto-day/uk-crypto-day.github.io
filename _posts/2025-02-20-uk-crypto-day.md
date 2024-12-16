@@ -4,7 +4,7 @@ subtitle: King's College London
 redirect_from: /2025/02/20/
 ---
 
-## Schedule
+### Schedule
 
 - 9:00 - 9:45 Arrival
 - 9:45 - 10:00 Opening remarks
@@ -21,13 +21,13 @@ redirect_from: /2025/02/20/
 - 17:00 - 17:30 Lightning talks
 - 17:30 - 19:00 Reception
 
-## Registration
+### Registration
 
 Registration is free but required.
 Details follow shortly.
 The registration closes one week before the event, or when we reach full capacity.
 
-## Venue
+### Venue
 
 Jean Hanson Room  
 Henriette Raphael Building  
@@ -36,6 +36,6 @@ King's College London
 
 [Google Maps](https://maps.app.goo.gl/ifs6dRzRiZjcBghc7)
 
-## Contacts
+### Contacts
 
 For enquiries please email Khanh Nguyen ngoc_khanh.nguyen at kcl.ac.uk
