@@ -1,5 +1,6 @@
 ---
 title:  "London-ish Crypto Day: 24 November 2022"
+subtitle: "Google"
 redirect_from: /2022/11/24/
 ---
 
