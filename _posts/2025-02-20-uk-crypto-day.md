@@ -1,5 +1,6 @@
 ---
 title: "UK Crypto Day: 20 February 2025"
+subtitle: King's College London
 redirect_from: /2025/02/20/
 ---
 

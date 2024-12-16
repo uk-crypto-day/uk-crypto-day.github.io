@@ -1,5 +1,6 @@
 ---
 title:  "UK Crypto Day: 23 June 2023"
+subtitle: "King's College London"
 redirect_from: /2023/06/23/
 ---
 

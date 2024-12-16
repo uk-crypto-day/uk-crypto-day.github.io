@@ -1,5 +1,6 @@
 ---
 title: "UK Crypto Day: 20 June 2024"
+subtitle: "University of Edinburgh"
 redirect_from: /2024/06/20/
 ---
 

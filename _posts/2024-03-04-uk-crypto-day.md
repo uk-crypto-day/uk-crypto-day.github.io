@@ -1,5 +1,6 @@
 ---
 title: "UK Crypto Day: 4 March 2024"
+subtitle: "University of Bristol"
 redirect_from: /2024/03/04/
 ---
 
