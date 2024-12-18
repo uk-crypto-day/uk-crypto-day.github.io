@@ -34,10 +34,11 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSf3_6ZklVbQzbnxd
 
 ### Venue
 
-Jean Hanson Room
-Henriette Raphael Building
-Great Maze Pond, London SE1 1UL
-King's College London
+Jean Hanson Room,
+Henriette Raphael Building,
+King's College London,
+Great Maze Pond,
+London SE1 1UL
 
 [Google Maps](https://maps.app.goo.gl/ifs6dRzRiZjcBghc7)
 
