@@ -21,21 +21,26 @@ redirect_from: /2025/02/20/
 - 17:00 - 17:30 Lightning talks
 - 17:30 - 19:00 Reception
 
+### Abstracts
+
+To follow.
+
 ### Registration
 
 Registration is free but required.
-Details follow shortly.
 The registration closes one week before the event, or when we reach full capacity.
+Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSf3_6ZklVbQzbnxdFNFKSeLjzq1NauIR_3EX-fhLkJW9J9Abg/viewform?usp=dialog).
+
 
 ### Venue
 
-Jean Hanson Room  
-Henriette Raphael Building  
-Great Maze Pond, London SE1 1UL  
-King's College London  
+Jean Hanson Room
+Henriette Raphael Building
+Great Maze Pond, London SE1 1UL
+King's College London
 
 [Google Maps](https://maps.app.goo.gl/ifs6dRzRiZjcBghc7)
 
 ### Contacts
 
-For enquiries please email Khanh Nguyen ngoc_khanh.nguyen at kcl.ac.uk
+For enquiries please email Khanh Nguyen ngoc_khanh.nguyen at kcl.ac.uk or Eamonn Postlethwaite eamonn.postlethwaite at kcl.ac.uk
