@@ -37,7 +37,7 @@ redirect_from: /2025/06/12/
 
 Registration is free but required.
 The registration closes one week before the event, or when we reach full capacity.
-Please register [here](https://docs.google.com/.....).
+Please register [here](https://docs.google.com/forms/d/1nRrtpRTSfVGOVjAnW3ETP0ESgmhcEmeHIHfpyoFQOpA/viewform?edit_requested=true).
 
 ### Venue
 
