@@ -37,6 +37,8 @@ Bio:
 Christophe Petit is an Associate Professor at the University of Birmingam and the Free University of Brussels. His research interests are in cryptography, particularly cryptanalysis and mathematical aspects.
 
 
+
+
 Sidharth Jaggi (University of Bristol)
 
 Title:
@@ -49,6 +51,8 @@ Bio:
 Sidharth (Sid) Jaggi (B.Tech. IIT Bombay 2000, M.S./Ph.D. CalTech 2006, all in electrical engineering, Post-Doctoral Associate MIT 2006). He joined The Chinese University of Hong Kong in 2007, and the School of Mathematics at the University of Bristol in 2020, where he is currently a Professor of Information and Coding Theory and Director of the EPSRC INFORMED-AI Hub. His research group (somewhat unwillingly) calls itself the CAN-DO-IT Team (Codes, Algorithms, Networks: Design and Optimization for Information Theory) — his research involves identifying fundamental limits of information-processing systems such as data storage, communication, estimation, classification etc (especially those where a potentially malicious adversary is aiming to subvert this information-processing task), and devising algorithms that approach these limits.
 
 
+
+
 Cong Ling (Imperial College London)
 
 Title:
@@ -59,6 +63,9 @@ Information Theory and Cryptography share a common foundation in Shannon’s pio
  
 Bio:
 Cong Ling is a Professor of Information Theory and Cryptography at Imperial College London. His research focuses on the study of lattices and their applications to coding and cryptography, as well as exploring their connections with number theory and quantum information.
+
+
+
 
 
 Feng Hao (University of Warwick)
@@ -74,6 +81,9 @@ Bio:
 Feng Hao is a Professor of Security Engineering at the Department of Computer Science, University of Warwick. He received his PhD in 2007 in Computer Science from the University of Cambridge. He worked in the security industry for a few years before joining academia. With colleagues, he designed a few cryptographic protocols: AV-net, OV-net, J-PAKE, YAK, DRE-i, DRE-ip, SEAL, Owl and Camel. Among them, J-PAKE (with Peter Ryan) has been adopted by the Thread Group as a de facto standard to perform the IoT commissioning process (used in Google Nest, ARM mbed, Amazon Firestick and iPhone 16) and standardized in ISO/IEC 11770-4. DRE-ip (with Siamak Shahandashti) was successfully trialled in Gateshead during the UK local elections on 2 May 2019, and in New Town, India in October 2022. His 2006 paper (with Ross Anderson and John Daugman) on "combining crypto with biometrics effectively" (IEEE Trans. Computers) is ranked the top in Google Classic papers in the category of "cryptography & computer security". His work on "self-enforcing e-voting" has led to a €1.5m ERC starting grant and an ERC proof-of-concept grant. With Peter Ryan, he co-edited a book "Real-World Electronic Voting: Design, Analysis and Deployment" (CRC Press, 2017).
 
 
+
+
+
 Amir R. Asadi (University of Cambridge)
 
 Title: 
@@ -84,6 +94,8 @@ Differential privacy (DP) is a mathematically rigorous framework for quantifying
 
 Bio:
 Amir R. Asadi is a Leverhulme Early Career Fellow at the Statistical Laboratory, part of the Department of Pure Mathematics and Mathematical Statistics at the University of Cambridge. He earned his M.A. and Ph.D. in Electrical and Computer Engineering from Princeton University in 2017 and 2021, respectively, after completing dual B.Sc. degrees in Mathematics and Electrical Engineering from Sharif University of Technology in 2015. His research interests include machine learning, differential privacy, and information theory.
+
+
 
 
 Benjamin Dowling (King’s College London) 
