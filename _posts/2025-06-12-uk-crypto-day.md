@@ -99,7 +99,13 @@ Amir R. Asadi is a Leverhulme Early Career Fellow at the Statistical Laboratory,
 
 
 Benjamin Dowling (King’s College London) 
-TBA
+
+
+Abstract: 
+Space networking has become an increasing area of development with the advent of commercial satellite networks such as those hosted by Starlink and Kuiper, and increased satellite and space presence by governments around the world. Historically such network designs have not been made public, leading to limited formal analysis of their security. One of the few public protocols used in space networking is the Bundle Protocol, which is secured by Bundle Protocol Security (BPSec), an Internet Engineering Task Force (IETF) standard. BPSec allows members of satellite groups (that share the same secret keys) to process messages on behalf of the group, which we capture as an "intermediate processing" property. In this talk I describe the results of the first formal analysis of BPSec, introducing a model of the secure channel security goals stated in the IETF standard, and note issues therein with message loss detection. I then introduce a stronger construction that supports the Bundle Protocol's intermediate processing goals while also ensuring detection of maliciously dropped message components.
+
+Bio:
+Benjamin Dowling is a Senior Lecturer in the Department of Informatics at King’s College London since August 2024. Previously, Benjamin was a Lecturer of Cybersecurity in the Security of Advanced Systems research group at the University of Sheffield. Benjamin held postdoctoral research positions at the Applied Cryptography group at ETH Zurich, and at the Information Security Group at Royal Holloway, University of London under Kenny Paterson. He received his PhD at the Queensland University of Technology under the supervision of Douglas Stebila, which focused on the provable security of internet protocols. Benjamin is interested in the provable security of real-world cryptography, extending security frameworks to bridge the gap between theoretical cryptography and its usage in the real-world. His notable publications examine the security of secure communication protocols such as SSL/TLS, secure messaging protocols such as Signal and Matrix, and introducing post-quantum security in practical cryptographic protocols.
 
 
 
