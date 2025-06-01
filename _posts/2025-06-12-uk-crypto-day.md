@@ -112,8 +112,8 @@ Benjamin Dowling is a Senior Lecturer in the Department of Informatics at Kingâ€
 ### Registration
 
 Registration is free but required.
-The registration closes one week before the event, or when we reach full capacity.
-Please register [here](https://docs.google.com/forms/d/1nRrtpRTSfVGOVjAnW3ETP0ESgmhcEmeHIHfpyoFQOpA/viewform?edit_requested=true).
+The registration closes on June 1st.
+Please register [here](...).
 
 ### Venue
 
