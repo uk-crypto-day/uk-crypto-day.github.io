@@ -26,23 +26,21 @@ Registration is free but required. To register please click [here](https://forms
 
 ### Speakers/Talks
 
-#### [Zhipeng Wang](https://zhipengwang.io/): DSKE: Digital Signatures with Key Extraction
-
-This work introduces DSKE, digital signatures with key extraction. In a DSKE scheme, the private key can be extracted if more than a threshold number of signatures on different messages are ever created while, within the threshold, each signature continues to authenticate the signed message. We propose a formal definition of DSKE, as well as two provably secure constructions, one from hash-based digital signatures and one from polynomial commitments. We demonstrate that DSKE is useful for various applications, such as cryptographic deniability and spam prevention. First, we introduce the GroupForge signature scheme, leveraging DSKE to achieve deniability in digital communication. GroupForge integrates DSKE with a Merkle tree and timestamps to produce a forward-forgeable signature equipped with extractable sets, ensuring deniability under a fixed public key. We illustrate that GroupForge can serve as a viable alternative to Keyforge in the non-attributable email protocol of Specter, Park, and Green (USENIX Sec ’21), thereby eliminating the need for continuous disclosure of outdated private keys. GroupForge can also operate as a short-lived signature, providing deniability non-interactively and agnostic to time. Second, we leverage the inherent extraction property of DSKE to develop a Rate-Limiting Nullifier (RLN) scheme. RLN efficiently identifies and expels spammers once they exceed a predetermined action threshold, thereby jeopardizing their private keys.
+#### [Martin Albrecht](): TBD
 
 **Bio.** 
-Zhipeng Wang is a lecturer (equivalent to an assistant professor) in cybersecurity in the Department of Computer Science at the University of Manchester. He was a postdoctoral research associate at Imperial College London, where he also completed his PhD. His research interests lie in the domain of privacy and security within decentralized and distributed computing systems, with a particular focus on blockchain and decentralized AI systems, as well as the underlying cryptographic primitives and protocols that support and secure them.
-
 
 #### [Boris Fouotsa](https://borisfouotsa.com/): TBD
 
 **Bio.** 
 
 
+#### [Zhipeng Wang](https://zhipengwang.io/): DSKE: Digital Signatures with Key Extraction
 
-#### [Martin Albrecht](): TBD
+This work introduces DSKE, digital signatures with key extraction. In a DSKE scheme, the private key can be extracted if more than a threshold number of signatures on different messages are ever created while, within the threshold, each signature continues to authenticate the signed message. We propose a formal definition of DSKE, as well as two provably secure constructions, one from hash-based digital signatures and one from polynomial commitments. We demonstrate that DSKE is useful for various applications, such as cryptographic deniability and spam prevention. First, we introduce the GroupForge signature scheme, leveraging DSKE to achieve deniability in digital communication. GroupForge integrates DSKE with a Merkle tree and timestamps to produce a forward-forgeable signature equipped with extractable sets, ensuring deniability under a fixed public key. We illustrate that GroupForge can serve as a viable alternative to Keyforge in the non-attributable email protocol of Specter, Park, and Green (USENIX Sec ’21), thereby eliminating the need for continuous disclosure of outdated private keys. GroupForge can also operate as a short-lived signature, providing deniability non-interactively and agnostic to time. Second, we leverage the inherent extraction property of DSKE to develop a Rate-Limiting Nullifier (RLN) scheme. RLN efficiently identifies and expels spammers once they exceed a predetermined action threshold, thereby jeopardizing their private keys.
 
 **Bio.** 
+Zhipeng Wang is a lecturer (equivalent to an assistant professor) in cybersecurity in the Department of Computer Science at the University of Manchester. He was a postdoctoral research associate at Imperial College London, where he also completed his PhD. His research interests lie in the domain of privacy and security within decentralized and distributed computing systems, with a particular focus on blockchain and decentralized AI systems, as well as the underlying cryptographic primitives and protocols that support and secure them.
 
 
 #### [Fernando Virdia](https://fundamental.domains/): Practical Semi-Open Group Messaging
