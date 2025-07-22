@@ -14,7 +14,7 @@ redirect_from: /2025/09/11/
 - 12:00 - 13:30:	Lunch
 - 13:30 - 14:15:	**Zheping Wang** (University of Manchester), *DSKE: Digital Signatures with Key Extraction*
 - 14:15 - 14:30:	Short break	
-- 14:30 - 15:15:	**Fernando Virdia** (University of Surrey), *TBD*
+- 14:30 - 15:15:	**Fernando Virdia** (University of Surrey), *Practical Semi-Open Group Messaging*
 - 15:15 - 15:45:	Coffee Break	
 - 15:45 - 16:30:	**Rachel Player** (Royal Holloway, University of London) *TBD*
 - 16:30 - 18:00:	Closing remarks and networking	
@@ -45,10 +45,23 @@ Zhipeng Wang is a lecturer (equivalent to an assistant professor) in cybersecuri
 **Bio.** 
 
 
-#### [Fernando Virdia](https://fundamental.domains/): TBD
+#### [Fernando Virdia](https://fundamental.domains/): Practical Semi-Open Group Messaging
+Chat groups in secure messaging applications are used for rapid and 
+widespread dissemination of information to large groups of people, even 
+in sensitive contexts. Manual administration of group membership can be 
+burdensome and error-prone, with mistakes potentially exposing 
+confidential communication to unintended people. We construct a 
+practical privacy-preserving reputation system that automates the 
+approval of new group members based on their reputation amongst the 
+existing membership. Along the way we propose a security notion, prove 
+the protocol secure, and benchmark a proof-of-concept implementation.
 
 **Bio.** 
-
+Fernando Virdia is a Lecturer in Cyber Security at the University of 
+Surrey. Fernando's research focuses on developing new practical 
+functionality for secure messaging and data storage. He is also active 
+in cryptanalysis, with a special focus towards post-quantum 
+cryptographic hardness assumptions.
 
 #### [Rachel Player](https://rachelplayer.github.io/): TBD
 
