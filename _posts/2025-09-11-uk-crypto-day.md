@@ -67,6 +67,6 @@ For any inquiry related to the event, please send an email to the organizer Bern
 
 The event is sponsored by the Computer Science department of The University of Manchester.
 
-<img src="/static/manchester_logo.jpg" width="35%">
+<img src="/static/manchester_logo.png" width="35%">
 
 
