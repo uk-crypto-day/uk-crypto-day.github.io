@@ -12,7 +12,7 @@ redirect_from: /2025/09/11/
 - 10:45 - 11:15:	Coffee Break	
 - 11:15 - 12:00:	**Boris Fouotsa** (EPFL), *TBD*
 - 12:00 - 13:30:	Lunch
-- 13:30 - 14:15:	**Zheping Wang** (University of Manchester), *DSKE: Digital Signatures with Key Extraction*
+- 13:30 - 14:15:	**Zhipeng Wang** (University of Manchester), *DSKE: Digital Signatures with Key Extraction*
 - 14:15 - 14:30:	Short break	
 - 14:30 - 15:15:	**Fernando Virdia** (University of Surrey), *Practical Semi-Open Group Messaging*
 - 15:15 - 15:45:	Coffee Break	
