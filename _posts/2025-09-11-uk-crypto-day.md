@@ -16,7 +16,7 @@ redirect_from: /2025/09/11/
 - 14:15 - 14:30:	Short break	
 - 14:30 - 15:15:	**Fernando Virdia** (University of Surrey), *Practical Semi-Open Group Messaging*
 - 15:15 - 15:45:	Coffee Break	
-- 15:45 - 16:30:	**Rachel Player** (Royal Holloway, University of London) *TBD*
+- 15:45 - 16:30:	**Rachel Player** (Royal Holloway, University of London) *On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR*
 - 16:30 - 18:00:	Closing remarks and networking	
 
 ### Registration
@@ -61,10 +61,11 @@ functionality for secure messaging and data storage. He is also active
 in cryptanalysis, with a special focus towards post-quantum 
 cryptographic hardness assumptions.
 
-#### [Rachel Player](https://rachelplayer.github.io/): TBD
+#### [Rachel Player](https://rachelplayer.github.io/): On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR
+The Doubly-Efficient Private Information Retrieval (DEPIR) protocol of Lin, Mook, and Wichs (STOC'23) relies on a Homomorphic Encryption (HE) scheme that is algebraic, i.e., whose ciphertext space has a ring structure that matches the homomorphic operations. Modern HE schemes have introduced techniques for efficiency that destroy the algebraic property. In this work, we revisit algebraic HE and prove a lower bound for the ciphertext ring size of algebraic HE schemes, which demonstrates a gap between optimal algebraic HE and the existing schemes. As we are unable to bridge this gap directly, we instead slightly relax the notion to construct a practically more efficient ‘relaxed-algebraic’ HE scheme, which leads to a more efficient instantiation of DEPIR. We experimentally demonstrate run-time improvements of more than 4x and reduce memory queries by more than 8x compared to prior work. Our construction relies on a new variant of the Ring Learning with Errors (RLWE) problem that we call {0,1}-CRT RLWE, for which we give a formal security reduction to standard RLWE. This is a joint work with Hiroki Okada, Simon Pohmann, and Christian Weinert.
 
 **Bio.** 
-
+Rachel Player is a Senior Lecturer in the Department of Information Security at Royal Holloway, University of London. Her main research interests are in post-quantum cryptography and homomorphic encryption. She was awarded the 2019 Radiant Award for Advancing Internet Security by Internet Security Research Group. She is the co-author (with Sean Murphy) of Cryptography: A Very Short Introduction, 2nd edition (Oxford University Press, 2025).
 
 ### Venue
 
