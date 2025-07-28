@@ -26,7 +26,7 @@ Registration is free but required. To register please click [here](https://forms
 
 ### Speakers/Talks
 
-#### [Martin Albrecht](): TBD
+#### [Martin Albrecht](https://malb.io/) & [Simone Colombo](https://simonecolombo.info/) & [Rikke Bjerg Jensen](https://rikkebjerg.gitlab.io/me/): At-Compromise Security: The Case for Alert Blindness
 
 **Bio.** 
 
