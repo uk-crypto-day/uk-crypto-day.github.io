@@ -10,13 +10,13 @@ redirect_from: /2025/09/11/
 -  9:45 - 10:00:	Opening remarks	
 - 10:00 - 10:45:	**Martin Albrecht & Simone Colombo & Rikke Bjerg Jensen** (King's College London and Royal Holloway, University of London), *At-Compromise Security: The Case for Alert Blindness*
 - 10:45 - 11:15:	Coffee Break	
-- 11:15 - 12:00:	**Boris Fouotsa** (EPFL), *TBD*
+- 11:15 - 12:00:	**Boris Fouotsa** (EPFL), *Isogeny-based cryptography: from attacks to prime time*
 - 12:00 - 13:30:	Lunch
 - 13:30 - 14:15:	**Zhipeng Wang** (University of Manchester), *DSKE: Digital Signatures with Key Extraction*
 - 14:15 - 14:30:	Short break	
 - 14:30 - 15:15:	**Fernando Virdia** (University of Surrey), *Practical Semi-Open Group Messaging*
 - 15:15 - 15:45:	Coffee Break	
-- 15:45 - 16:30:	**Rachel Player** (Royal Holloway, University of London) *On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR*
+- 15:45 - 16:30:	**Rachel Player** (Royal Holloway, University of London), *On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR*
 - 16:30 - 18:00:	Closing remarks and networking	
 
 ### Registration
@@ -30,9 +30,11 @@ Registration is free but required. To register please click [here](https://forms
 
 **Bio.** 
 
-#### [Boris Fouotsa](https://borisfouotsa.com/): TBD
+#### [Boris Fouotsa](https://borisfouotsa.com/): Isogeny-based cryptography: from attacks to prime time
+SIDH, one of the most popular isogeny-based schemes, was broken in summer 2022.  This attack had a huge echo within the cryptography community as SIKE, an SIDH based KEM, was in the 4th round of the NIST standardisation process. In this talk, we briefly discuss the reasons why the attacks only apply to SIDH/SIKE and not to other schemes such as SQIsign, CSIDH, and many more. Next, we discuss how the attacks are being used to revitalise the field. We mainly highlight the efficiency gains in SQIsign and in isogeny group action evaluation.
 
 **Bio.** 
+Boris is a postdoctoral researcher at the Security and Cryptography lab at EPFL. He enjoys designing and analysing isogeny-based protocols. He is the author of several isogeny-based key exchange, public key encryption and digital signature schemes. He is a contributor to SQIsign.  Besides doing research,  Boris is actively engaged in developing cryptology in Africa.
 
 
 #### [Zhipeng Wang](https://zhipengwang.io/): DSKE: Digital Signatures with Key Extraction
