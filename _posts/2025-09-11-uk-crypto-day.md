@@ -8,7 +8,7 @@ redirect_from: /2025/09/11/
 
 -  9:00 -  9:45:	Arrival
 -  9:45 - 10:00:	Opening remarks	
-- 10:00 - 10:45:	**Martin Albrecht & Simone Colombo & Rikke Bjerg Jensen** (King's College London and Royal Holloway, University of London), *At-Compromise Security: The Case for Alert Blindness*
+- 10:00 - 10:45:	**Martin Albrecht & Rikke Bjerg Jensen** (King's College London and Royal Holloway, University of London), *At-Compromise Security: The Case for Alert Blindness*
 - 10:45 - 11:15:	Coffee Break	
 - 11:15 - 12:00:	**Boris Fouotsa** (EPFL), *Isogeny-based cryptography: from attacks to prime time*
 - 12:00 - 13:30:	Lunch
@@ -26,9 +26,16 @@ Registration is free but required. To register please click [here](https://forms
 
 ### Speakers/Talks
 
-#### [Martin Albrecht](https://malb.io/) & [Simone Colombo](https://simonecolombo.info/) & [Rikke Bjerg Jensen](https://rikkebjerg.gitlab.io/me/): At-Compromise Security: The Case for Alert Blindness
+#### [Martin Albrecht](https://malb.io/) & [Rikke Bjerg Jensen](https://rikkebjerg.gitlab.io/me/): At-Compromise Security: The Case for Alert Blindness
+We start from the observation (Blanchette'12) that cryptography broadly intuits security goals -- as modelled in games or ideal functionalities -- while claiming realism. This stands in contrast to cryptography's attentive approach towards examining assumptions and constructions through cryptanalysis and reductions. To close this gap, we introduce a technique for determining security goals. Given that games and ideal functionalities model specific social relations between various honest and adversarial parties, our approach is grounded in a careful social science methodology for studying social relations in their contexts: ethnography. As a first application of this technique, we study security at-compromise (neither pre- nor post-) and introduce the security goal of alert blindness. Specifically, as observed in our 2024/2025 ethnographic fieldwork with protesters in Kenya, alert blindness captures a security goal of abducted persons who were taken by Kenyan security forces for their presumed activism. It may have applications elsewhere.
 
-**Bio.** 
+*Joint work with Simone Colombo and Benjamin Dowling.*
+
+**Bios.** 
+Martin Albrecht is a Professor of Cryptography at King's College London. He works broadly across the field of cryptography but focuses on the analysis of deployed or soon-to-be deployed cryptographic solutions and on analysing the security of lattice-based cryptography against classical and quantum computers.
+
+Rikke Bjerg Jensen is a Professor in the Information Security Group at Royal Holloway, University of London. Her work is ethnographic and grounded in explorations of information security practices and needs among groups of people living and working at the margins of societies.
+
 
 #### [Boris Fouotsa](https://borisfouotsa.com/): Isogeny-based cryptography: from attacks to prime time
 SIDH, one of the most popular isogeny-based schemes, was broken in summer 2022.  This attack had a huge echo within the cryptography community as SIKE, an SIDH based KEM, was in the 4th round of the NIST standardisation process. In this talk, we briefly discuss the reasons why the attacks only apply to SIDH/SIKE and not to other schemes such as SQIsign, CSIDH, and many more. Next, we discuss how the attacks are being used to revitalise the field. We mainly highlight the efficiency gains in SQIsign and in isogeny group action evaluation.
