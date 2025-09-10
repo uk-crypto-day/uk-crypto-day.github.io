@@ -8,7 +8,7 @@ redirect_from: /2025/09/11/
 
 -  9:00 -  9:45:	Arrival
 -  9:45 - 10:00:	Opening remarks	
-- 10:00 - 10:45:	**Rikke Bjerg Jensen & Martin Albrecht** (Royal Holloway, University of London and King's College London), *At-Compromise Security: The Case for Alert Blindness*
+- 10:00 - 10:45:	*(online talk)* **Rikke Bjerg Jensen & Martin Albrecht** (Royal Holloway, University of London and King's College London), *At-Compromise Security: The Case for Alert Blindness*
 - 10:45 - 11:15:	Coffee Break	
 - 11:15 - 12:00:	**Boris Fouotsa** (EPFL), *Isogeny-based cryptography: from attacks to prime time*
 - 12:00 - 13:30:	Lunch
