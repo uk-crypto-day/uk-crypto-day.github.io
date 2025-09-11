@@ -1,5 +1,5 @@
 ---
-title: "UK Crypto Day: 11 September 2025"
+title: "UK Crypto Day"
 subtitle: "The University of Manchester"
 redirect_from: /2025/09/11/
 ---

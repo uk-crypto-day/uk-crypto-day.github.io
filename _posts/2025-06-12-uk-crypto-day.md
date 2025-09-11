@@ -1,5 +1,5 @@
 ---
-title: "UK Crypto Day: 12 June 2025"
+title: "UK Crypto Day"
 subtitle: University of Sheffield
 redirect_from: /2025/06/12/
 ---

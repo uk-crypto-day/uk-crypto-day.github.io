@@ -1,5 +1,5 @@
 ---
-title:  "London-ish Crypto Day: 24 November 2022"
+title:  "London-ish Crypto Day"
 subtitle: "Google"
 redirect_from: /2022/11/24/
 ---
