@@ -32,12 +32,12 @@ TBC
 
 ### Venue
 
-Room LTE
-Lecture Theatre Block
-Stag Hill Campus
-University of Surrey
-Guildford
-GU2 7XH
+Room LTE,
+Lecture Theatre Block,
+Stag Hill Campus,
+University of Surrey,
+Guildford,
+GU2 7XH.
 
 
 [Google Maps](https://maps.app.goo.gl/kstNTbfUiiNUPwM17)
