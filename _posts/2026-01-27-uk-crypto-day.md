@@ -44,4 +44,8 @@ GU2 7XH
 
 ### Contacts
 
-For any enquiries or to propose a lightning talk (max. 5 minutes), please email Rob Granger (r.granger@surrey.ac.uk).
+For any enquiries please email Rob Granger (r.granger@surrey.ac.uk).
+
+To propose a lightning talk (max. four minutes), please email Rob with the subject "UK Crypto Day: lightning talk" and include your title and how long you will need.
+
+We are looking forward to seeing you in Guildford!
