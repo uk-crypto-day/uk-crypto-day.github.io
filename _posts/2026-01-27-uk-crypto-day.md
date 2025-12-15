@@ -23,7 +23,7 @@ redirect_from: /2026/01/27/
 
 ### Registration
 
-Registration is free but required. The registration closes one week before the event, or when we reach full capacity.
+Registration is free but required. The registration will close at 23.59 on Wednesday 21st January, or beforehand if we reach full capacity.
 Please register [here](https://www.eventbrite.co.uk/e/uk-crypto-day-university-of-surrey-tickets-1977887778589?aff=oddtdtcreator).
 
 ### Abstracts
