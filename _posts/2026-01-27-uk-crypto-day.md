@@ -7,7 +7,7 @@ redirect_from: /2026/01/27/
 ### Schedule
 
 - 9:00 - 9:45 Arrival
-- 9:45 - 10:00 Opening remarks from University of Surrey President and Vice-Chancellor, Prof. Stephen Jarvis
+- 9:45 - 10:00 Opening remarks from the University of Surrey President and Vice-Chancellor, Prof. Stephen Jarvis
 - 10:00 - 10:45 1st talk
 - 10:45 - 11:15 Coffee break
 - 11:15 - 12:00 2nd talk
@@ -44,4 +44,4 @@ GU2 7XH
 
 ### Contacts
 
-For any enquiries please email Robert Granger r.granger@surrey.ac.uk
+For any enquiries please email Robert Granger (r.granger@surrey.ac.uk).
