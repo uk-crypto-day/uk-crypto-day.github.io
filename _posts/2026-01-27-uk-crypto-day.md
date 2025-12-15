@@ -44,4 +44,4 @@ GU2 7XH
 
 ### Contacts
 
-For any enquiries please email Robert Granger (r.granger@surrey.ac.uk).
+For any enquiries please email Rob Granger (r.granger@surrey.ac.uk).
