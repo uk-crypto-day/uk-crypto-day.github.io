@@ -6,8 +6,8 @@ redirect_from: /2026/01/27/
 
 ### Schedule
 
-- 9:00 - 9:45 Arrival
-- 9:45 - 10:00 Opening remarks from the University of Surrey President and Vice-Chancellor, Prof. Stephen Jarvis
+- 9:00 - 9:50 Arrival
+- 9:50 - 10:00 Opening remarks from the University of Surrey President and Vice-Chancellor, Prof. Stephen Jarvis
 - 10:00 - 10:45 **Rod Chapman** (Amazon Web Services), *Formal is fast: verification and optimization of crypto code at AWS*
 - 10:45 - 11:15 Coffee break
 - 11:15 - 12:00 **Chaoyun Li** (University of Surrey)
