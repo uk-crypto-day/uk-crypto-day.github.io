@@ -71,7 +71,7 @@ The closest railway station is *Guildford*. From the platform, follow signs sayi
 
 ### Contacts
 
-For any enquiries please email Catalin Dragan (c.dragan at surrey.ac.uk).
+General Chair: Rob Granger. For programme enquiries please email Catalin Dragan (c.dragan at surrey.ac.uk), for local organisation enquires, please email Fernando Virdia (f.virdia at surrey.ac.uk).
 
 To propose a lightning talk (max. four minutes), please email Rob with the subject "UK Crypto Day: lightning talk" and include your title and how long you will need.
 
