@@ -10,7 +10,7 @@ redirect_from: /2026/01/27/
 - 9:50 - 10:00 Opening remarks from the University of Surrey President and Vice-Chancellor, Prof. Stephen Jarvis
 - 10:00 - 10:45 **Rod Chapman** (Amazon Web Services), *Formal is fast: verification and optimization of crypto code at AWS*
 - 10:45 - 11:15 Coffee break
-- 11:15 - 12:00 **Chaoyun Li** (University of Surrey)
+- 11:15 - 12:00 **Chaoyun Li** (University of Surrey), *Towards Efficient Post-Quantum Cryptography: From Standards to Implementations*
 - 12:00 - 13:30 Lunch
 - 13:30 - 14:15 **Chloe Martindale** (University of Bristol)
 - 14:15 - 14:30 Short break
@@ -42,6 +42,10 @@ Furthermore we prove that the C+C 'phenomenon' is an expression of the geometry 
 Finally, we show that a correctly parametrised primal attack outperforms C+C both in the originally studied and new parameter regimes.
 
 **Bio:** Eamonn Postlethwaite is a lecturer at King's College London specialising in constructive and cryptanalytic aspects of post quantum cryptography. Prior to this he held a postdoctoral position at Centrum Wiskunde en Informatica in Amsterdam and wrote his PhD at Royal Holloway, University of London.
+
+#### Chaoyun Li, Towards Efficient Post-Quantum Cryptography: From Standards to Implementations
+
+**Bio:** Chaoyun Li is currently a lecturer in the Surrey Centre for Cyber Security at University of Surrey. He received the Ph.D. degree from COSIC, KU Leuven, Belgium in 2020. He was a postdoctoral researcher at COSIC, KU Leuven from 2020 to 2023, which was funded by an FWO postdoc fellowship. His research covers the full spectrum of cryptography and security, ranging from theoretical foundations to implementations and applications. His current research projects include fast and secure implementation of quantum-safe cryptography, mathematical and physical attacks, and data privacy.
 
 ### Venue
 
