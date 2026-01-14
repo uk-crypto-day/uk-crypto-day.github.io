@@ -57,7 +57,7 @@ Lecture Theatre Block,
 Stag Hill Campus,
 University of Surrey,
 Guildford,
-GU2 7XH.
+GU2 7XH
 ```
 
 To locate the LT Block within the campus, you can use the following maps:
@@ -80,6 +80,10 @@ General Chair: Rob Granger. For programme enquiries please email Catalin Dragan 
 To propose a lightning talk (max. four minutes), please email Catalin with the subject "UK Crypto Day: lightning talk" and include your title and how long you will need.
 
 We are looking forward to seeing you in Guildford!
+
+### Thanks
+
+UK Crypto Day at Surrey was organised with support from:
 
 <img src="/static/surrey.png" width="35%"><br/>
 <img src="/static/surrey-vetss.png" width="35%"><br/>
