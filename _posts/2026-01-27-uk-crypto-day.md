@@ -81,7 +81,9 @@ The closest railway station is *Guildford*. From the platform, follow signs sayi
 
 #### On-campus parking
 
-Complimentary parking for visitors is available. Please park your car at the *North Car Park*, and on arrival to the Lecture Theatre M, use the QR code that will be provided on the day to register your car.
+Complimentary parking for visitors is available either by pre-registration (the recommended way, a link will be sent to those who registered on Eventbrite before the event), or by registering on the day using a QR code that will be provided on arrival to Lecture Theatre M.
+
+In either case, you are recommended to park your car at the *North Car Park*.
 
 Directions to the North car park:
 - Google maps: [click here](https://maps.app.goo.gl/PNNQ93ySV5GmxJRP8)
