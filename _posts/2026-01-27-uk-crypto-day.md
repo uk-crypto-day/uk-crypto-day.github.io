@@ -34,15 +34,6 @@ This presentation will go over our approach to formal verification of cryptograp
 
 **Bio:** Rod is a senior principal applied scientist within the Cryptography group of Amazon Web Services. He specializes in the design, development and verification of cryptographic software, and has particular experience with programming language design and automated reasoning technologies. He also coaches development teams and leadership in high-assurance software development disciplines, technologies, and processes. He is a Fellow of the IET and an honorary visiting professor at the University of York.
 
-#### Eamonn Postlethwaite, Cool + Cruel = Dual, and New Benchmarks for Sparse LWE
-
-We describe a dimension reduction framework for the dual attack against the bounded distance decoding problem.
-Specialising to LWE (average case bounded distance decoding) we show that a known dual attack [Albrecht, EUROCRYPT 2017] falls into our framework and in particular show that the apparently novel 'Cool and Cruel' (C+C) attack is an instantiation of this known dual attack.
-Furthermore we prove that the C+C 'phenomenon' is an expression of the geometry of the well known Z-shape basis in qary lattices, despite claims to the contrary.
-Finally, we show that a correctly parametrised primal attack outperforms C+C both in the originally studied and new parameter regimes.
-
-**Bio:** Eamonn Postlethwaite is a lecturer at King's College London specialising in constructive and cryptanalytic aspects of post quantum cryptography. Prior to this he held a postdoctoral position at Centrum Wiskunde en Informatica in Amsterdam and wrote his PhD at Royal Holloway, University of London.
-
 #### Chaoyun Li, Towards Efficient Post-Quantum Cryptography: From Standards to Implementations
 
 **Bio:** Chaoyun Li is currently a lecturer in the Surrey Centre for Cyber Security at University of Surrey. He received the Ph.D. degree from COSIC, KU Leuven, Belgium in 2020. He was a postdoctoral researcher at COSIC, KU Leuven from 2020 to 2023, which was funded by an FWO postdoc fellowship. His research covers the full spectrum of cryptography and security, ranging from theoretical foundations to implementations and applications. His current research projects include fast and secure implementation of quantum-safe cryptography, mathematical and physical attacks, and data privacy.
@@ -52,6 +43,15 @@ Finally, we show that a correctly parametrised primal attack outperforms C+C bot
 In this talk we will discuss some challenges around how to transition more complex cryptography, both technical and otherwise, to post-quantum. We will then give an idea of how to design threshold schemes with isogenies.
 
 **Bio:** Dr Chloe Martindale is a Senior Lecturer in Cryptography at the University of Bristol. Her research is on cryptanalysis and design of post-quantum cryptography, especially using isogenies of elliptic curves, and she sits on the crypto panel of experts for CFRG. She did her PhD in algebraic number theory with Marco Streng at Leiden University and Bordeaux University became a cryptographer during her time as a postdoc with Tanja Lange at TU Eindhoven.
+
+#### Eamonn Postlethwaite, Cool + Cruel = Dual, and New Benchmarks for Sparse LWE
+
+We describe a dimension reduction framework for the dual attack against the bounded distance decoding problem.
+Specialising to LWE (average case bounded distance decoding) we show that a known dual attack [Albrecht, EUROCRYPT 2017] falls into our framework and in particular show that the apparently novel 'Cool and Cruel' (C+C) attack is an instantiation of this known dual attack.
+Furthermore we prove that the C+C 'phenomenon' is an expression of the geometry of the well known Z-shape basis in qary lattices, despite claims to the contrary.
+Finally, we show that a correctly parametrised primal attack outperforms C+C both in the originally studied and new parameter regimes.
+
+**Bio:** Eamonn Postlethwaite is a lecturer at King's College London specialising in constructive and cryptanalytic aspects of post quantum cryptography. Prior to this he held a postdoctoral position at Centrum Wiskunde en Informatica in Amsterdam and wrote his PhD at Royal Holloway, University of London.
 
 ### Venue
 
