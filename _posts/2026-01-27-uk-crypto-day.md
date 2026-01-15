@@ -68,7 +68,7 @@ GU2 7XH
 
 To locate the LT Block within the campus, you can use the following maps:
 - Google Maps: [click here](https://maps.app.goo.gl/yJx5eMNzR99tLM7cA)
-- Apple Maps: [click here](https://maps.apple.com/place?place-id=IDF4B0F7BAE339AA8&address=Stag+Hill%2C+The+Chase%2C+Guildford%2C+GU2+7UP%2C+England&coordinate=51.24270821927451%2C-0.5885675176978111&name=Lecture+Block&_provider=9902)
+- Apple Maps: [click here](https://maps.apple.com/place?place-id=IDF4B0F7BAE339AA8)
 - OpenStreetMap: [click here](https://osm.org/go/eurWIN6pA?way=27364982)
 - Campus map: building 23, [click here](https://www.surrey.ac.uk/sites/default/files/2025-08/campus-map.pdf)
 
@@ -78,6 +78,15 @@ Accessibility information for the LT Block can be found [clicking here](https://
 Stag Hill Campus can be reached by train, coach and car. Travel information can be found [clicking here](https://www.surrey.ac.uk/visit-university/how-get-here).
 
 The closest railway station is *Guildford*. From the platform, follow signs saying "University" to the **rear exit** of the station (*Guildford Park Rd*). From there, you can either follow a 10-15 minutes walk (1.2 miles), or take the bus #1 from the *Guildford Station (Stop D)* bus stop on Guildford Park Rd, alighting at *University of Surrey AX Building*.
+
+#### On-campus parking
+
+Complimentary parking for visitors is available. Please park your car at the *North Car Park*, and on arrival to the Lecture Theatre M, use the QR code that will be provided on the day to register your car.
+
+Directions to the North car park:
+- Google maps: [click here](https://maps.app.goo.gl/PNNQ93ySV5GmxJRP8)
+- Apple Maps: [click here](https://maps.apple.com/place?place-id=IDC659C0F2DA65981)
+- OpenStreetMap: [click here](https://www.openstreetmap.org/way/38758068)
 
 ### Contacts
 
