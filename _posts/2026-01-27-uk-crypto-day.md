@@ -12,7 +12,7 @@ redirect_from: /2026/01/27/
 - 10:45 - 11:15 Coffee break
 - 11:15 - 12:00 **Chaoyun Li** (University of Surrey), *Towards Efficient Post-Quantum Cryptography: From Standards to Implementations*
 - 12:00 - 13:30 Lunch
-- 13:30 - 14:15 **Chloe Martindale** (University of Bristol)
+- 13:30 - 14:15 **Chloe Martindale** (University of Bristol), *Threshold isogeny-based cryptography and friends*
 - 14:15 - 14:30 Short break
 - 14:30 - 15:15 **Amit Deo** (Zama)
 - 15:15 - 15:45 Coffee break
@@ -46,6 +46,12 @@ Finally, we show that a correctly parametrised primal attack outperforms C+C bot
 #### Chaoyun Li, Towards Efficient Post-Quantum Cryptography: From Standards to Implementations
 
 **Bio:** Chaoyun Li is currently a lecturer in the Surrey Centre for Cyber Security at University of Surrey. He received the Ph.D. degree from COSIC, KU Leuven, Belgium in 2020. He was a postdoctoral researcher at COSIC, KU Leuven from 2020 to 2023, which was funded by an FWO postdoc fellowship. His research covers the full spectrum of cryptography and security, ranging from theoretical foundations to implementations and applications. His current research projects include fast and secure implementation of quantum-safe cryptography, mathematical and physical attacks, and data privacy.
+
+#### Chloe Martindale, Threshold isogeny-based cryptography and friends
+
+In this talk we will discuss some challenges around how to transition more complex cryptography, both technical and otherwise, to post-quantum. We will then give an idea of how to design threshold schemes with isogenies.
+
+**Bio:** Dr Chloe Martindale is a Senior Lecturer in Cryptography at the University of Bristol. Her research is on cryptanalysis and design of post-quantum cryptography, especially using isogenies of elliptic curves, and she sits on the crypto panel of experts for CFRG. She did her PhD in algebraic number theory with Marco Streng at Leiden University and Bordeaux University became a cryptographer during her time as a postdoc with Tanja Lange at TU Eindhoven.
 
 ### Venue
 
