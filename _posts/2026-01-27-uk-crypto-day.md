@@ -14,7 +14,7 @@ redirect_from: /2026/01/27/
 - 12:00 - 13:30 Lunch
 - 13:30 - 14:15 **Chloe Martindale** (University of Bristol), *Threshold isogeny-based cryptography and friends*
 - 14:15 - 14:30 Short break
-- 14:30 - 15:15 **Amit Deo** (Zama)
+- 14:30 - 15:15 **Amit Deo** (Zama), *POOL: A Practical OT-based OPRF from Learning with Rounding*
 - 15:15 - 15:45 Coffee break
 - 15:45 - 16:30 **Eamonn Postlethwaite** (King's College London), *Cool + Cruel = Dual, and New Benchmarks for Sparse LWE*
 - 16:30 - 17:00 Lightning talks
@@ -43,6 +43,12 @@ This presentation will go over our approach to formal verification of cryptograp
 In this talk we will discuss some challenges around how to transition more complex cryptography, both technical and otherwise, to post-quantum. We will then give an idea of how to design threshold schemes with isogenies.
 
 **Bio:** Dr Chloe Martindale is a Senior Lecturer in Cryptography at the University of Bristol. Her research is on cryptanalysis and design of post-quantum cryptography, especially using isogenies of elliptic curves, and she sits on the crypto panel of experts for CFRG. She did her PhD in algebraic number theory with Marco Streng at Leiden University and Bordeaux University became a cryptographer during her time as a postdoc with Tanja Lange at TU Eindhoven.
+
+#### Amit Deo, POOL: A Practical OT-based OPRF from Learning with Rounding
+
+At a high level, an OPRF is an interactive protocol that allows a client and server to obliviously evaluate a pseudorandom function (PRF). In particular, the client holds a private PRF input x whereas the server holds a PRF key k. After an OPRF interaction, the client should learn nothing about k apart from the value of PRF(k,x), whereas the server should learn nothing at all. OPRFs have numerous applications in areas such as private set operations and private authentication protocols (such as Privacy Pass). In this talk, we will present a simple and efficient post-quantum oblivious pseudorandom function (OPRF) protocol called POOL. The security of POOL lies in the semi-honest model and depends on a secure Oblivious Transfer (OT) protocol along with a Learning With Rounding (LWR) PRF. The OPRF construction is round-optimal and achieves concrete efficiency in the online phase, thanks to some input-independent preprocessing. In terms of performance, Pool achieves practical efficiency: at the 128-bit semi-honest security level, it requires just 11.9 kB of online communication and runs in under 2 ms on a single thread as shown by our open-source implementation. This makes Pool more efficient than existing constructions based on standard post-quantum PRFs, and competitive even with schemes relying on less established assumptions.
+
+**Bio:** Amit is currently a researcher at Zama working in the general area of lattice-based cryptography. Their recent interests lie in topics such as FHE, OPRFs and anamorphic cryptography. Their academic background includes a PhD from Royal Holloway and a post-doctoral position at ENS Lyon. Prior to joining Zama, I also worked at Crypto Quantique.
 
 #### Eamonn Postlethwaite, Cool + Cruel = Dual, and New Benchmarks for Sparse LWE
 
