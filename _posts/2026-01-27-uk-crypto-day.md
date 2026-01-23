@@ -83,7 +83,7 @@ Accessibility information for the LT Block can be found [clicking here](https://
 #### Transport options
 Stag Hill Campus can be reached by train, coach and car. Travel information can be found [clicking here](https://www.surrey.ac.uk/visit-university/how-get-here).
 
-The closest railway station is *Guildford*. From the platform, follow signs saying "University" to the **rear exit** of the station (*Guildford Park Rd*). From there, you can either follow a 10-15 minutes walk (1.2 miles), or take the bus #1 from the *Guildford Station (Stop D)* bus stop on Guildford Park Rd, alighting at *University of Surrey AX Building*.
+The closest railway station is *Guildford*. From the platform, exit the station via the footbridge, following the "Hospital and University way out" signs to the **rear exit** of the station (*Guildford Park Rd*). From there, you can either follow a 15 minutes walk (1.2 miles), or take the bus #1 from the *Guildford Station (Stop D)* bus stop on Guildford Park Rd, alighting at the Austin Pearce stop (due to maintenance works, this is currently the closest bus stop to the LT block).
 
 #### On-campus parking
 
