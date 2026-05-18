@@ -18,7 +18,6 @@ redirect_from: /2026/06/17/
 - 15:45 - 16:30: **Talk 5**
 - 16:30 - 17:00: Lightning Talks
 - 17:00 - 19:00: Reception
-- 19:00 - onward: Dinner
 
 ### Registration
 Registration is free but required. To register please click [here](https://forms.office.com/e/EsrYPuTdaE).
