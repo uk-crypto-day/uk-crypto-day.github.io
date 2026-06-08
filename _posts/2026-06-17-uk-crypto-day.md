@@ -23,7 +23,7 @@ redirect_from: /2026/06/17/
 Registration is free but required. To register please click [here](https://forms.office.com/e/EsrYPuTdaE).
 
 ### Speakers and Talks
-Speakers will include [Sofía Celi](https://sofiaceli.com/), [Luciano Maino](https://lucianomaino.github.io/Luciano-Maino.github.io/), and Ciara Rafferty.
+Speakers will include [Sofía Celi](https://sofiaceli.com/), Thalia Laing, [Luciano Maino](https://lucianomaino.github.io/Luciano-Maino.github.io/), [Varun Maram](https://varun-maram.github.io/), and [Ciara Rafferty](https://pure.qub.ac.uk/en/persons/ciara-rafferty/).
 
 
 ### Lightning talks
