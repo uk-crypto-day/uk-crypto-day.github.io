@@ -15,7 +15,7 @@ redirect_from: /2026/06/17/
 - 14:15 - 14:30: Short break
 - 14:30 - 15:15: **Varun Maram:** Feistel Tools: Query-Recording and Reprogramming for QRPs
 - 15:15 - 15:45: Break
-- 15:45 - 16:30: **Ciara Rafferty:** TBC
+- 15:45 - 16:30: **Ciara Rafferty:** Securing PQC schemes in hardware
 - 16:30 - 17:00: Lightning Talks
 - 17:00 - 19:00: Reception
 
@@ -39,8 +39,8 @@ Speakers will include [Sofía Celi](https://sofiaceli.com/), Thalia Laing, [Luci
 #### Varun Maram, Feistel Tools: Query-Recording and Reprogramming for QRPs
 **Abstract.**  In this talk, we will describe how the classic Feistel networks, introduced in the 70s, can still prove to be quite handy in the post-quantum era in-terms of extending proof techniques in the quantum random oracle model (QROM) — such as query-recording and reprogramming — to the quantum random permutation model (QRPM). Among other things, our new Feistel-inspired framework, or "Feistel toolkit", enables us to prove post-quantum — and non-uniform/preprocessing — security of a recent variant of the Fiat-Shamir transformation based on duplex sponges \[Chiesa and Orrù, TCC 2025\] which is currently being considered for adoption in Signal.
 
-#### Ciara Rafferty: TBC
-**Abstract.** TBC
+#### Ciara Rafferty: Securing PQC schemes in hardware
+**Abstract.** As we continue to transition to post-quantum cryptography (PQC), designing secure and practical hardware implementations is a significant challenge. This talk will present some of our recent research from CSIT at Queen’s University Belfast on designing secure hardware architectures for PQC signature schemes.  More specifically, this talk will examine the design of key hardware building blocks for ML-KEM, a NIST-standardised PQC algorithm, and for QR-UOV, a multivariate signature scheme and a candidate from NIST’s third round of standardisation of additional signatures.  The talk will conclude by discussing practical implementation challenges and opportunities associated with these recent PQC schemes
 
 
 
